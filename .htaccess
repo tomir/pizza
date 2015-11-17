@@ -1,0 +1,9 @@
+
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+RewriteRule ^index.html$ index.php
+RewriteRule ^admin.html$ index.php?page=showProduct&admin=true
+
+RewriteRule ^menu-([^-]+).html$ index.php?page=mainAction&spies=$1 [L]

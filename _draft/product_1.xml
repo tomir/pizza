@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Strega</name>
+        <price>4.00</price>
+        <description/>
+        <category>Pizza</category>
+        <attributes>
+            <attribute>Tomaten</attribute>
+            <attribute>Käse</attribute>
+            <attribute>Paprika</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Tris di Dolci</name>
+        <price>6.00</price>
+        <description>Gemischtes Dessert</description>
+        <category>Desser</category>
+        <attributes/>
+    </product>
+    <product>
+        <name>Salami</name>
+        <price>4.00</price>
+        <description/>
+        <category>Pizza</category>
+        <attributes>
+            <attribute>Käse</attribute>
+            <attribute>Salami</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Inferno</name>
+        <price>6.00</price>
+        <description/>
+        <category>Pizza</category>
+        <attributes>
+            <attribute>Salami</attribute>
+            <attribute>Peperon(scharf)
+            </attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Porcini</name>
+        <price>6.50</price>
+        <description/>
+        <category>Pizza</category>
+        <attributes>
+            <attribute>Steinpilze</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Fortuna</name>
+        <price>6.00</price>
+        <description/>
+        <category>Pizza</category>
+        <attributes>
+            <attribute>Spinat</attribute>
+            <attribute>Krabben</attribute>
+            <attribute>Mozzerella</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Radler</name>
+        <price>3.00</price>
+        <description>Pils mit Zitronenlimonade</description>
+        <category>Getränke</category>
+        <attributes/>
+    </product>
+</products>

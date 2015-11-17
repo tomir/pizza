@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name> Cittadina </name>
+        <price>4.00</price>
+        <description/>
+        <category>Pizzen</category>
+        <attributes>
+            <attribute>Tomaten</attribute>
+            <attribute>Käse</attribute>
+            <Paprika></Paprika>
+        </attributes>
+    </product>
+    <product>
+        <name>Tris di Dolci</name>
+        <price>6.00</price>
+        <description>Gemischtes Dessert</description>
+        <category>Dessert</category>
+        <attributes>
+            <attribute>Tiramisu</attribute>
+            <attribute>Eiscreme</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Salami</name>
+        <price>4.00</price>
+        <description/>
+        <category>Nudeln</category>
+        <attributes>
+            <attribute>Käse</attribute>
+            <attribute>Salami</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Inferno</name>
+        <price>6.00</price>
+        <description/>
+        <category>Pan-Pizza</category>
+        <attributes>
+            <attribute>Salami</attribute>
+            <attribute>Peperoni (scharf)</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Porcini</name>
+        <price>6.500</price>
+        <description/>
+        <category>Pizza</category>
+        <attributes>
+            <attribute>Steinpilze</attribute>
+        </attributes>
+        <rating>5.0</rating>
+    </product>
+    <product>
+        <name>Fortune</name>
+        <price>206.00</price>
+        <description/>
+        <category>Pizza</category>
+        <attributes>
+            <attribute>Spinat</attribute>
+            <attribute>Krabben</attribute>
+            <attribute>Mozzerella</attribute>
+        </attributes>
+    </product>
+    <product>
+        <name>Radler</name>
+        <price>3.00</price>
+        <description>
+        </description>
+        <category>getranke</category>
+        <attributes>
+            <attribute>Alkohol</attribute>
+            <attribute>erfrischend</attribute>
+        </attributes>
+    </product>
+</products>
